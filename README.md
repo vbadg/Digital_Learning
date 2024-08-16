@@ -7,12 +7,18 @@ The project is entirely created and uses various python Libraries to support our
 
 # Content
 A general Introduction to Classification.
+
 Working Idea behind Classification.
+
 Some Common Classification Algorithm.
-Working with Iris Data and applying classification Methods- RandomForestClassifier and DecisionTreeClassifer and evaluating Classifiers using evaluation metrics.
+
+Working with Iris Data and applying  RandomForestClassifier and DecisionTreeClassifer and evaluating Classifiers using evaluation metrics.
 
 # Note
 We need to import all the necessary libraries for this process.
+
 Pandas: For working with Iris DataFrame.
+
 Sklearn: For Machine Learning task(Splitting data into test-train and applying classifier like Random Forest Classifier and Decision Tree Classifier)
+
 Seaborn: For Visualization.
